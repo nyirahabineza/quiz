@@ -43,3 +43,8 @@ button{
     width:15%;
     margin-left:450px;
 }
+#answer{
+    display:none;
+    font-size:48px;
+    font-weight: bold;
+}
