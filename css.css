@@ -1,5 +1,6 @@
 .container{
     background-color:rosybrown;
+    width:90%;
 }
 .well{
     background-color:blanchedalmond
@@ -7,7 +8,7 @@
 img{
     width:35%;
     height:150px;
-    margin-left:400px;
+    margin-left:500px;
     border-radius:50%;
 }
 h1{
@@ -28,20 +29,20 @@ span{
     height: 170px;
      margin-right: 20px; 
     box-shadow: 2px 5px 2px rgb(121, 120, 120);
-    width:524px;
+    width:760px;
   }
   .row{
     border-left:2px solid rgb(121, 120, 120);
     border-top: 2px solid rgb(121, 120, 120);
     margin-top: 20px;
   }
-button{
+#button{
     padding:10px;
     background-color:slategray;
     border:1px solid blue;
     font-size:24px;
     width:15%;
-    margin-left:450px;
+    margin-left:650px;
 }
 #answer{
     display:none;
