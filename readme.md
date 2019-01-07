@@ -11,8 +11,8 @@ HTML , CSS ,JavaScript, jQuery ,Bootstrap
 #Setup/Installation Requirements
 
 Switch on your computer
-Through Google chrome, visit the website i have mentioned in the https://github.com/nyirahabineza/quiz.gitdescription above
-Visit my repository if you wish to make any changes 
+Through Google chrome, visit the website i have mentioned in the description above
+Visit my repository if you wish to make any changes https://github.com/nyirahabineza/quiz.git 
 #BDD The following is what my program should handle:
 
 Input Example	Output Example
